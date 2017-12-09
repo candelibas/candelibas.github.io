@@ -38,7 +38,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: candelibas00
+disqus_shortname: 'candelibas00'
 
 # txtpen post comments
 # (leave blank to disable txtpen)
@@ -51,11 +51,11 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: 'candelibas'
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: 'candbas'
 skype_username:
 steam_nickname:
 google_plus_id:
