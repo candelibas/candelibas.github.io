@@ -1,14 +1,14 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Can Delibaş
+email:       candelibas00@gmail.com
+author:      Can Delibaş
+description: "Software Development Journey"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://candelibas.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
+ - contact.md
 
 # Google services
 google_verification:
@@ -38,7 +38,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: candelibas00
 
 # txtpen post comments
 # (leave blank to disable txtpen)
@@ -71,8 +71,8 @@ vk_id:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
