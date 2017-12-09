@@ -3,7 +3,6 @@ layout:     post
 title:      Hellow There
 date:       2017-12-10
 summary:    Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
-categories: 
 ---
 
 Hello.
